@@ -4,5 +4,5 @@
 	"--machine-readable",
 	"--hide-suggestion",
 	"--simple-console",
-	"D:/gauge-gradle/specs/example.spec:18"
+	"D:/gauge-gradle/specs/example.spec"
 ]
